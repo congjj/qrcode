@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity
 
     void startqrCode()
     {
-
+        //http://blog.csdn.net/jack_curiosity/article/details/52212575
     }
 
     protected void onActivityResult(int requestCode, int resultCode, Intent data)
