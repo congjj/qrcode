@@ -33,8 +33,7 @@ import android.util.Log;
 import android.view.View;
 
 import com.google.zxing.ResultPoint;
-//import com.uuzuche.lib_zxing.R;
-//import com.uuzuche.lib_zxing.camera.CameraManager;
+
 
 import java.util.Collection;
 import java.util.HashSet;
